@@ -2,16 +2,16 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--- snake -->
-<!-- 🌈 Banner animado pro -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Aaron%20López%20Mendoza&fontSize=40&fontColor=ffffff&animation=twinkling" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Aaron%20López%20Mendoza&fontSize=40&fontColor=ffffff&animation=twinkling" />
+</div>
 
-<!-- 💻 Subtítulo -->
+<!-- 💻 Subtítulo centrado -->
 <div align="center">
   <h3>Software Developer | Cloud Enthusiast | Problem Solver 🚀</h3>
 </div>
 
-<!-- 🐍 Snake animation -->
+<!-- 🐍 Snake centrado -->
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
@@ -25,22 +25,28 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’ve worked on **projects using APIs and backend integration**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 💻 I have experience in **Python, Java, C++ and competitive programming problem solving**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🏆 I actively solve problems on **Codeforces (rating: 824) and CSES**, improving algorithmic thinking and data structures
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- ☁️ I have experience with **cloud computing using AWS (basic deployment and services usage)**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 🗄️ I’ve worked with **databases using Django ORM and SQL**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 🧠 I’ve built personal projects such as a **notes app using HTML, CSS and JavaScript**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🔐 I’m currently interested in **Cybersecurity (learning fundamentals of systems security, networks and ethical hacking basics)**
+
+- 🔧 I use **GitHub for version control and collaborative development**
+
+- 🖥️ I work with **Linux (Ubuntu)** as my main operating system and I use **Vim as a text editor**
+
+- 🧩 I also have experience with **Coq and Racket for functional and formal programming concepts**
+
+- 🛠️ Tools I use: **VS Code, Vim, Git, Linux terminal, competitive programming platforms (Codeforces, CSES)**
 <!--Intro end-->
-
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -48,15 +54,19 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+
+<p align="center">
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+</p>
+
+ 
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaronlm25&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aaronlm25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -66,7 +76,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Aaronlm25&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -82,6 +92,7 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
