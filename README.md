@@ -3,11 +3,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--- snake -->
+<!-- 🌈 Banner animado pro -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Aaron%20López%20Mendoza&fontSize=40&fontColor=ffffff&animation=twinkling" />
+
+<!-- 💻 Subtítulo -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Aaron%20López%20Mendoza&fontSize=40&fontColor=ffffff&animation=twinkling" />
-       alt="snake" /></a>
+  <h3>Software Developer | Cloud Enthusiast | Problem Solver 🚀</h3>
 </div>
 
+<!-- 🐍 Snake animation -->
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
