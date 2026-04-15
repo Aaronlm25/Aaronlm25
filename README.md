@@ -11,6 +11,16 @@
   <h3>Software Developer | Cloud Enthusiast | Problem Solver 🚀</h3>
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=👁+Profile+Views+Tracker" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Aaronlm25&style=for-the-badge&color=00ff00&label=VISITORS" />
+
+</div>
+
 <!-- 🐍 Snake centrado -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif" alt="Dino animation" />
