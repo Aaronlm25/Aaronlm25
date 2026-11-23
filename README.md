@@ -1,4 +1,12 @@
-## Hi, I'm Aaron López Mendoza 👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Hi%20I%20am%20Aaron%20López%20Mendoza&fontSize=40&fontColor=ffffff&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Backend+%C2%B7+Databases+%C2%B7+Local+AI;Building+an+LLM+from+scratch;Open+to+internships+%26+junior+roles" alt="Backend · Databases · Local AI" />
+</div>
 
 **Computer Science student at UNAM** (graduating June 2027 · GPA 9.25/10) and **full-stack developer** focused on backend, databases and local AI.
 I build things end to end and measure them: real systems for UNAM, an Android app, and a language model trained from scratch.
@@ -7,11 +15,15 @@ I build things end to end and measure them: real systems for UNAM, an Android ap
 
 [Portfolio](https://aaronlm25.github.io) · [CV](https://aaronlm25.github.io/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/aaron-lopez-mendoza-7349103a6/) · [Email](mailto:alopez250405@gmail.com) · [Codeforces](https://codeforces.com/profile/aaronlm25)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### What I'm working on
 
 - **Syntax**: an Android app for English grammar and vocabulary (React Native, Expo, Kotlin, SQLite). It has 308 topics from 3 books, 5,700+ exercises, writing checked by AI and TOEFL/IELTS/TOEIC practice. *Private repo.*
 - **An offline English corrector** for that app. I'm fine-tuning small Qwen3 models with LoRA so they can run on the phone.
 - **PAPIME 2026 (UNAM)**: a digital learning environment for the Biology program.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Featured work
 
@@ -24,6 +36,8 @@ I build things end to end and measure them: real systems for UNAM, an Android ap
 | [**Festival de las Luciérnagas**](https://github.com/darshanperez/ingsofware-p1) | Django + PostgreSQL reservation platform with a Leaflet map. I was Scrum Master for a 5-person team |
 | [**Proyecto-Torneo-Pokemon**](https://github.com/Aaronlm25/Proyecto-Torneo-Pokemon) | PostgreSQL event-management database: relational model, multi-table queries and triggers |
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### Tech
 
 <p>
@@ -31,3 +45,5 @@ I build things end to end and measure them: real systems for UNAM, an Android ap
 </p>
 
 Also: Expo, Ollama, LoRA fine-tuning, MPI, Leaflet, Scrum/Kanban, OWASP · 🇲🇽 Spanish (native) · 🇺🇸 English (intermediate)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
