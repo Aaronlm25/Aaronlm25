@@ -1,136 +1,33 @@
+## Hi, I'm Aaron López Mendoza 👋
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Computer Science student at UNAM** (graduating June 2027 · GPA 9.25/10) and **full-stack developer** focused on backend, databases and local AI.
+I build things end to end and measure them: real systems for UNAM, an Android app, and a language model trained from scratch.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=Hi%20I%20am%20Aaron%20López%20Mendoza&fontSize=40&fontColor=ffffff&animation=twinkling" />
-</div>
+🟢 **Open to internships and junior backend / full-stack roles.**
 
-<!-- 💻 Subtítulo centrado -->
-<div align="center">
-  <h3>Software Developer | Cloud Enthusiast | Problem Solver 🚀</h3>
-</div>
+[Portfolio](https://aaronlm25.github.io) · [CV](https://aaronlm25.github.io/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/aaron-lopez-mendoza-7349103a6/) · [Email](mailto:alopez250405@gmail.com) · [Codeforces](https://codeforces.com/profile/aaronlm25)
 
-<div align="center">
+### What I'm working on
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=👁+Profile+Views+Tracker" />
+- **Syntax**: an Android app for English grammar and vocabulary (React Native, Expo, Kotlin, SQLite). It has 308 topics from 3 books, 5,700+ exercises, writing checked by AI and TOEFL/IELTS/TOEIC practice. *Private repo.*
+- **An offline English corrector** for that app. I'm fine-tuning small Qwen3 models with LoRA so they can run on the phone.
+- **PAPIME 2026 (UNAM)**: a digital learning environment for the Biology program.
 
-<br>
+### Featured work
 
-<img src="https://komarev.com/ghpvc/?username=Aaronlm25&style=for-the-badge&color=00ff00&label=VISITORS" />
+| Project | What it shows |
+|---|---|
+| [**llm-from-scratch**](https://github.com/Aaronlm25/llm-from-scratch) | GPT built from scratch (micrograd → makemore → GPT → BPE), plus a 304-sentence evaluation harness and a LoRA pipeline for the corrector |
+| [**SIA backend · IFC UNAM**](https://sia.ifc.unam.mx) | Request processing, queries and database design for a live UNAM system (credited on the site) |
+| [**parallel-matmul-mpi**](https://github.com/Aaronlm25/parallel-matmul-mpi) | MPI in C with uneven row splits, correctness checks and a benchmark (up to 1.8x on 4 cores, memory-bound) |
+| [**Proyecto-Agente-IA**](https://github.com/Aaronlm25/Proyecto-Agente-IA) | Local multi-agent assistant (Ollama) with voice, plus a benchmark of 10 open models |
+| [**Festival de las Luciérnagas**](https://github.com/darshanperez/ingsofware-p1) | Django + PostgreSQL reservation platform with a Leaflet map. I was Scrum Master for a 5-person team |
+| [**Proyecto-Torneo-Pokemon**](https://github.com/Aaronlm25/Proyecto-Torneo-Pokemon) | PostgreSQL event-management database: relational model, multi-table queries and triggers |
 
-</div>
+### Tech
 
-<!-- 🐍 Snake centrado -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif" alt="Dino animation" />
-</div>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
--🔭 I’ve worked on API-based and backend projects and workinhg in AWS
-
--💻 Experience in Python, Java, C++ and competitive programming (Codeforces 824, CSES)
-
--☁️ Interested in Cloud Computing (AWS) 
-
--🔐 Interested in Cybersecurity (networks, systems, ethical hacking basics)
-
--💬 Ask me about backend, React & databases  
-
--📫 Contact: alopez250405@gmail.com
-
--🏠 Discord: aron2521
-<!--Intro end-->
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-<p align="center">
-  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,c,cpp,kotlin,django,react,postgres,sqlite,pytorch,docker,linux,git&perline=15" alt="Python, TypeScript, JavaScript, Java, C, C++, Kotlin, Django, React Native, PostgreSQL, SQLite, PyTorch, Docker, Linux, Git" />
 </p>
 
- 
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaronlm25&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aaronlm25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vim,vscode,aws,docker,cpp,python,java,js,html,css,postgres,mysql,sqlite,nodejs,express,react&perline=10" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-## Connect With Me 🤝
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaron_López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-lopez-mendoza-7349103a6/)
-[![Twitter](https://img.shields.io/badge/Twitter-@AaronLopez4194-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AaronLopez4194)
-[![Instagram](https://img.shields.io/badge/Instagram-aaron__l.king-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aaron_l.king/)
-[![Discord](https://img.shields.io/badge/Discord-aron2521-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/aron2521)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Aaronlm25-FF6B35?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aaronlm25)
-
-</div>
-
-  
-</p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=aaronlm25&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
+Also: Expo, Ollama, LoRA fine-tuning, MPI, Leaflet, Scrum/Kanban, OWASP · 🇲🇽 Spanish (native) · 🇺🇸 English (intermediate)
