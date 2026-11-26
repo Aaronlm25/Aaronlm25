@@ -11,8 +11,6 @@
 **Computer Science student at UNAM** (graduating June 2027 · GPA 9.25/10) and **full-stack developer** focused on backend, databases and local AI.
 I build things end to end and measure them: real systems for UNAM, an Android app, and a language model trained from scratch.
 
-🟢 **Open to internships and junior backend / full-stack roles.**
-
 [Portfolio](https://aaronlm25.github.io) · [CV](https://aaronlm25.github.io/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/aaron-lopez-mendoza-7349103a6/) · [Email](mailto:alopez250405@gmail.com) · [Codeforces](https://codeforces.com/profile/aaronlm25)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
